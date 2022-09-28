@@ -15,6 +15,7 @@ text-align:caption;
 width:50px;
 height:50px;
 cursor:pointer;
+border:solid aqua 2px; 
 
 }
 .banner{
@@ -22,7 +23,7 @@ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Logo.jp
 }
 h{
 font-size:30px;
-color: Blue;
+color: Aqua;
 font-family:cursive;
 text-align:center;
 }

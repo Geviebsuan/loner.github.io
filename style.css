@@ -126,41 +126,5 @@ color:green;
 background-color:lightblue;
 color:blue;
 }
-.search-box{
-position:absolute;
-transform:translate(-50%,-50%);
-border-radius:20px;
-top:50%;
-left:50%;
-padding:10px;
-}
-.search-box:hover>.search-btn{
-align-items:center;
-}
-.search-box:hover>.search-text{
-width:100px;
-margin-left:20%;
-background:white;
-padding:0 6px;
-}
-.search-btn{
-width:5px;
-float:right;
-height:5px;
-border-radius:20%;
-display:flex;
-padding:0 6px;
 
-}
-.search-text{
-border:none;
-background:white;
-outline:none;
-float:left;
-padding:0;
-font-size:16px;
-transition:0.4s all;
-line-height:10px;
-width:0px;
-}
 
